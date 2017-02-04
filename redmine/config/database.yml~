@@ -1,0 +1,8 @@
+development:
+  adapter: postgresql
+  database: redmine
+  #host: localhost
+  username: pfranco
+  password: "123456"
+
+
